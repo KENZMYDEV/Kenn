@@ -1,0 +1,13 @@
+{
+  "name": "@whiskeysockets/baileys",
+  "version": "6.7.0",
+  "description": "Custom Baileys Library by kenzdevgtg-boop",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest"
+  }
+}
